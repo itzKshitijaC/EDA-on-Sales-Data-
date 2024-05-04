@@ -26,6 +26,4 @@ Dataset consists of 12 CSV files
 8. Which Product generates the highest revenue?
 9. What are the Top5 Products Generating the highest revenue?
 
-# Conclusion 🔚
-We successfully performed Exploratory Data analysis on the Sales Data and drew key insights from the data. 
-
+# Summary of Findings 📉
