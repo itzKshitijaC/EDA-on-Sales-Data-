@@ -26,4 +26,10 @@ Dataset consists of 12 CSV files
 8. Which Product generates the highest revenue?
 9. What are the Top5 Products Generating the highest revenue?
 
-# Summary of Findings 📉
+# Conclusion 🔚
+- To begin with, our observation says that December yields the highest revenue, totaling $4,603,148.06.
+- San Francisco is the city who generated the highest revenue of total $8,247,283.19
+- The state with the highest revenue generation is CA 94016, with San Francisco city located within it.
+- During the peak time of 11am and 7pm is the best timing to display advertisements to maximize liklihood of customer's buying the product
+- AAA Batteries (4-pack) is the most ordered product or the top selling product
+- Macbook Pro Laptop is the product which generates the highest revenue of $8,027,400.00
